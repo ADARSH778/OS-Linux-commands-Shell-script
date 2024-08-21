@@ -1,7 +1,7 @@
 # OS-Linux-commands-Shell-scripting
 Operating systems Lab exercise
 # Linux commands-Shell scripting
-Linux commands-Shell scripting
+Linux commands-Shell scripting 
 #### Developed By: ADARSH CHOWDARY REDDINENI
 #### Reg.NO: 212223040166
 # AIM:
